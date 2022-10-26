@@ -7,7 +7,7 @@ def main(s,n):
     Returns:
         str: answer
     """
-    return s[:len(s)-n]
 
     
-print(main('apsoisgofdofdcple',1))
+    return s[:len(s)-n]
+print(main('codeschooluz', 3))
