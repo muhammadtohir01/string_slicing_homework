@@ -9,4 +9,5 @@ def main(s,n):
     """
     return s[0:len(s)-n]
     
-print(main('apple',1))
+    
+print(main('apsoisgofdofdcple',1))
