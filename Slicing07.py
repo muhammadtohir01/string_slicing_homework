@@ -8,6 +8,6 @@ def main(s,n):
         str: answer
     """
 
-    
-    return s[:len(s)-n]
+
+    return s[:-n]
 print(main('codeschooluz', 3))
