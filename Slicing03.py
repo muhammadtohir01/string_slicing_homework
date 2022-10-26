@@ -5,5 +5,5 @@ def main(s):
     Returns:
         str: answer
     """
-    return s[1:4]
-print(main('hello'))
+    return s[1:len(s)-1]
+print(main('iawegefuddfi'))
